@@ -1,0 +1,53 @@
+{
+    "epc": {
+      "nombre_modelo": "Enseñanza para la Comprensión",
+      "caracteristicas": {
+        "topicos_generativos": {
+          "descripcion": "Temas, conceptos o preguntas que deben despertar curiosidad, conectar áreas del conocimiento, y promover exploración y comprensión profunda.",
+          "observacion": ""
+        },
+        "metas_comprension": {
+          "descripcion": "Ideas, procesos o preguntas que los estudiantes deben comprender mediante la investigación. Guían el aprendizaje y permiten medir los avances.",
+          "observacion": ""
+        },
+        "desempenos_comprension": {
+          "descripcion": "Actividades que ponen en práctica el conocimiento adquirido, promoviendo la comprensión activa y el pensamiento crítico.",
+          "observacion": ""
+        },
+        "evaluacion_diagnostica_continua": {
+          "descripcion": "Proceso continuo de retroalimentación y ajuste en la comprensión del estudiante. Permite identificar fortalezas y debilidades en el aprendizaje.",
+          "observacion": ""
+        },
+        "proceso_dinamico_y_flexibilidad": {
+          "descripcion": "Proceso flexible que adapta el aprendizaje a las necesidades del educando y fomenta el desarrollo de habilidades críticas y reflexivas.",
+          "observacion": ""
+        }
+      }
+    },
+    "indagacion": {
+      "nombre_modelo": "Indagación Científica",
+      "caracteristicas": {
+        "focalizacion": {
+          "descripcion": "Diagnóstico inicial para identificar aprendizajes previos y construir nuevos conceptos con base sólida.",
+          "observacion": ""
+        },
+        "exploracion": {
+          "descripcion": "Formulación de hipótesis y reconocimiento de variables mediante trabajo colaborativo, diseñando métodos de investigación adecuados.",
+          "observacion": ""
+        },
+        "reflexion": {
+          "descripcion": "Comparación de los resultados obtenidos con las predicciones, construyendo aprendizaje a partir de la indagación.",
+          "observacion": ""
+        },
+        "aplicacion": {
+          "descripcion": "Aplicación del aprendizaje en nuevos modelos o situaciones, formulando nuevas preguntas que generan más conocimiento.",
+          "observacion": ""
+        },
+        "trabajo_colaborativo": {
+          "descripcion": "Fomento del trabajo en equipo durante cada fase de la indagación, discutiendo ideas y soluciones.",
+          "observacion": ""
+        }
+      }
+    }
+  }
+  

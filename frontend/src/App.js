@@ -21,12 +21,13 @@ function App() {
     };
 
     try {
-      // Realizar la solicitud al servidor Flask
-      const response = await axios.post('http://127.0.0.1:5000/procesar', servicioEducativo);
-      
-      // Actualizar el estado con el resultado recibido
+      const response = await axios.post('http://127.0.0.1:5000/procesar', servicioEducativo, {
+        headers: {
+          'Content-Type': 'application/json'
+        }
+      });
       setResultado(response.data);
-
+      
       // Borrar los campos de entrada después de enviar
       setIntroduccion('');
       setObjetivos('');
@@ -96,4 +97,3 @@ function App() {
 }
 
 export default App;
-
